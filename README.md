@@ -113,8 +113,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZALKHAN7629&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
     <!-- Most Used Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAIZALKHAN7629&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
-    <!-- Contributor Stats -->
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=FAIZALKHAN7629&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+<!--     <!-- Contributor Stats -->
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=FAIZALKHAN7629&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br /> -->
     <!-- Stats -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FAIZALKHAN7629&theme=2077" height="210em" alt="Stats" />
     <!-- Top languages by commit -->
